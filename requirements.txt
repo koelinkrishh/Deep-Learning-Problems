@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+plotly
+xgboost
+Flask
+jupyter
+ipykernel
+keras-tuner
+dill
+collection
